@@ -20,7 +20,22 @@ This application provides real-time visualization of IMU sensor data (accelerome
 
 ## 🎬 Demo
 
-![IMU Visualizer Demo](screenshots/demo.gif)
+### Accelerometer – Raw Data
+![Accelerometer Raw](screenshots/accel-raw.PNG)
+
+### Gyroscope – Raw Data
+![Gyroscope Raw](screenshots/gyro-raw.PNG)
+
+### Accelerometer-based Orientation
+![Accelerometer Orientation](screenshots/accel-orientation.PNG)
+
+### Gyroscope-based Orientation
+![Gyroscope Orientation](screenshots/gyro-orientation.PNG)
+
+### Complementary Filter Result
+![Complementary Filter](screenshots/complementary-filter.PNG)
+
+
 *Real-time visualization of accelerometer and gyroscope data*
 
 ## 🚀 Quick Start
@@ -34,8 +49,8 @@ This application provides real-time visualization of IMU sensor data (accelerome
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/imu-visualizer.git
-cd imu-visualizer
+git clone https://github.com/syedrafayme143/IMU-Complementary-Filter.git
+cd IMU Complementary Filter
 ```
 
 2. Install dependencies:
